@@ -1,2 +1,2 @@
-costo = 0
-print("EJEMPLO GITHUB" ,0)
+costo_t_p = 10
+print("EJEMPLO GITHUB" ,costo_t_p)
